@@ -1,0 +1,72 @@
+/*
+Have at least 10 selectors
+- Use two or more fonts for different kinds of content
+- Set the background color of some elements, specifying the color by hex notation
+- Set the border of some elements
+Use the :hover pseudo-class for one or more elements
+- Use at least one class-based selector
+- Use at least one id-based selector
+- Have at least one selector rely on the hierarchical relationship between two elements
+- Use width and/or height to control the geometry of an element
+*/
+
+h1{
+    color: slateblue;
+    font-family: serif;
+    font-weight: bold;
+    width: max-content;
+}
+
+h3{
+    color: #301934;
+    height: 1cm;
+}
+
+p{
+    color: midnightblue;
+    font-family: Helvetica;
+}
+
+ul{
+    list-style-type:armenian;
+}
+
+.instructions{
+    background-color: #d8bfd8;
+}
+
+#intro{
+    border: springgreen;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#cat_names li{
+    font-family:'OCR A STD';  /*I think this counts as styling children elements*/
+}
+
+/*make all the children in the list italiv onvr you figure out how to do that*/
+
+#name_one{
+    font-color: #d3b7e8;
+}
+
+#name_two{
+    font-color: #b7e8d3;
+}
+
+#name_three{
+    font-color:#e8d3b7;
+}
+
+#page_one{
+    background-color: dodgerblue;
+}
+#page_one img:hover{
+    color: red;
+}
+
+
+
+
+                                   
