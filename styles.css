@@ -48,15 +48,15 @@ ul{
 /*make all the children in the list italiv onvr you figure out how to do that*/
 
 #name_one{
-    font-color: #d3b7e8;
+    color: #d3b7e8;
 }
 
 #name_two{
-    font-color: #b7e8d3;
+    color: #b7e8d3;
 }
 
 #name_three{
-    font-color:#e8d3b7;
+    color:#e8d3b7;
 }
 
 #page_one{
